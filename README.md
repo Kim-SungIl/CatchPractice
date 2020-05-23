@@ -7,7 +7,7 @@ Catch 멘토링 스프링 서버개발 실습 1주차
  - Mac OS
    - 터미널 > java -version
  - java version 1.8이상이 설치되어 있을 경우 다음으로 진행
- - 설치가 되어있지 않을 경우, https://java.com/ko/download/ 설치 진행
+ - 설치가 되어있지 않을 경우, https://jdk.java.net 설치 진행 (실습에서는 8버전을 사용하지만, 이미 그 상위 버전이 설치되어 있을경우 그대로 진행해도 무관)
  
 ## Eclipse download
  - https://www.eclipse.org/downloads/
