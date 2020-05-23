@@ -13,3 +13,5 @@ Catch 멘토링 스프링 서버개발 실습 1주차
  - https://www.eclipse.org/downloads/
  - Eclipse IDE for Enterprise Java Developers 선택 (mac의 경우 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-03/R/eclipse-inst-mac64.dmg&mirror_id=1211 다운로드 후 설치할 때 선택)
  
+## 1주차 강의자료 요약
+ - https://drive.google.com/file/d/1JF1C8aQBsycZsnNW1CHUShJd8rVweGaN/view?usp=sharing
