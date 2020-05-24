@@ -1,5 +1,4 @@
-# CatchPractice
-Catch 멘토링 스프링 서버개발 실습 1주차
+# Catch 멘토링 스프링 서버개발 실습 1주차
 
 ## Java 설치 확인
  - 윈도우
@@ -15,3 +14,9 @@ Catch 멘토링 스프링 서버개발 실습 1주차
  
 ## 1주차 강의자료 요약
  - https://drive.google.com/file/d/1JF1C8aQBsycZsnNW1CHUShJd8rVweGaN/view?usp=sharing
+
+# Catch 멘토링 스프링 서버개발 실습 2주차
+
+## Postmane 다운로드
+  - https://www.postman.com/downloads/
+  
