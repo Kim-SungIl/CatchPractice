@@ -17,6 +17,6 @@
 
 # Catch 멘토링 스프링 서버개발 실습 2주차
 
-## Postmane 다운로드
+## Postman 다운로드
   - https://www.postman.com/downloads/
   
