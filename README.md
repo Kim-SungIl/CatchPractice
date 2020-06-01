@@ -21,4 +21,4 @@
   - https://www.postman.com/downloads/
   
 ## 2주차 강의자료 요약
- - https://drive.google.com/file/d/11fCFsNKt6jIn8JFIKBYLeIKCVoRVkfOy/view
+ - https://drive.google.com/file/d/11fCFsNKt6jIn8JFIKBYLeIKCVoRVkfOy/view?usp=sharing
