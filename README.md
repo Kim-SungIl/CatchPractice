@@ -22,3 +22,12 @@
   
 ## 2주차 강의자료 요약
  - https://drive.google.com/file/d/11fCFsNKt6jIn8JFIKBYLeIKCVoRVkfOy/view?usp=sharing
+
+## 3주차 application.properties
+spring.datasource.url=jdbc:h2:file:./db/test
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2-console
+spring.jpa.hibernate.ddl-auto=validate
